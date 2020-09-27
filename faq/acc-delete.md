@@ -8,6 +8,6 @@ description: How to delete your Minehut account.
 
 If you want to delete your Minehut account, you can create a [support ticket](https://minehut.com/app/support) titled **Account Deletion Request** in the issue category. You will receive a response via the email associated with the account you used to submit the ticket.
 
-{% hint style="info" %}
+{% hint style="danger " %}
 Join our **[Discord](https://invite.gg)** to become an official writer for Minehut.xyz 
 {% endhint %}
