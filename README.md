@@ -10,6 +10,10 @@ description: >-
 
 We aim to provide top quality tutorials, provide answers to top questions, and help in any way we can. Our site is [community driven](contribute.md), and we will continue to make it better and better.
 
+{% hint style="info" %}
+Sponsor | **[Skriptify](https://skriptify.xyz) is an organization dedicated to helping out the users who were affected by the 12 plugin limit. Browse their Skript resources and use them on your server.**
+{% endhint %}
+
 ## POPULAR QUESTIONS
 
 This section is directed towards questions that are asked frequently asked. For example ["How do I allow 1.8 clients to join?"](faq/server-version.md), and ["How do I give my players a permission"](faq/permissions.md). These posts are normally to help solve problems/inform users on new topics. [\[Submit a post\]](contribute.md)
