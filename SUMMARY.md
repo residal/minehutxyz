@@ -18,6 +18,7 @@
 * [Custom Domain](faq/domain.md)
 * [Bedrock Edition](faq/bedrock.md)
 * [Rename](faq/rename.md)
+* [Forums Club](faq/clubs.md)
 * [Default World](faq/default-world.md)
 * [Allowed File types](faq/files.md)
 * [Bugs](faq/bugs.md)
