@@ -13,3 +13,4 @@ This is where timings data becomes useful. They allow you to monitor how long it
 • To **enable timings**, run `/timings on`.
 • Once you **experience a lag spike or tps drop**, use `/timings paste`.
 • Use the page given in `/timings paste` to display the output in a graphical format. You can dig deeper into the issue by using the dropdown arrows on the bottom of the page.
+ 
