@@ -27,3 +27,7 @@ Due to security reasons, you cannot upload certain file types to your servers.
 .dat
 .conf
 ```
+
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
