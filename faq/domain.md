@@ -34,3 +34,8 @@ Once your done, it should look something like this:
 ![](../.gitbook/assets/domain4.png)
 
 After all that, click the Save button. Now you're all done and you can join your server with the custom domain.
+
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
