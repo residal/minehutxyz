@@ -20,3 +20,8 @@ To use resource packs, go to your Minecraft Multiplayer Server list. For the ser
 * **Disabled** - The resource pack won't download at all. You'll need to send them the link to download it and install it manually _\[not recommended\]_.
 * **Prompt** - The player will be prompted to download the resource pack.
 
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
+
