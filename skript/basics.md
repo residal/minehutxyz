@@ -39,3 +39,8 @@ After typing the code, you'll want to save the file _\(save button at the bottom
 
 Now that you've reloaded your script, once you join your server you will receive a welcome message saying "Welcome to the server.".
 
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
+
