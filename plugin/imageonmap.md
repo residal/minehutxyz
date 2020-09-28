@@ -1,5 +1,5 @@
 ---
-description: Learn how to use ImageOnMap plugin.
+description: Learn how to use the ImageOnMap plugin.
 ---
 
 # ImageOnMap
