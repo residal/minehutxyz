@@ -1,7 +1,7 @@
 ---
 description: >-
   Learn the basics of PermissionsEx.
-  (https://github.com/PEXPlugins/PermissionsEx/wiki)
+  [https://github.com/PEXPlugins/PermissionsEx/wiki]
 ---
 
 # PermissionsEx
@@ -144,6 +144,11 @@ You can add prefixes and suffixes to your created groups or even certain players
 | pex group &lt;group&gt; user remove &lt;user&gt; | permissions.manage.membership.&lt;group&gt; | Remove &lt;user&gt; from &lt;group&gt; \(single or comma-seperated list\) |
 | pex promote &lt;user&gt; &lt;ladder&gt; | permissions.user.promote.&lt;ladder&gt; | Promote &lt;user&gt; on &lt;ladder&gt;. If &lt;ladder&gt; is not specified, the default ladder \(named default\) will be used. |
 | pex demote &lt;user&gt; &lt;ladder&gt; | permissions.user.demote.&lt;ladder&gt; | Demote &lt;user&gt; on &lt;ladder&gt;. If &lt;ladder&gt; is not specified, the default ladder \(named default\) will be used. |
+
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
 
 
 
