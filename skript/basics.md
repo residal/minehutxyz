@@ -1,5 +1,5 @@
 ---
-description: 'Learn how to use Skript. (https://skriptlang.github.io/Skript/)'
+description: 'Learn how to use Skript. [https://skriptlang.github.io/Skript/]'
 ---
 
 # Basics
