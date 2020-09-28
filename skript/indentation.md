@@ -51,3 +51,8 @@ function myFunc(): # A function is declared.
 
 * Also, remind that **all** events, conditions, sections, command and functions **need a colon behind them!**
 
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
+
