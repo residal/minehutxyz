@@ -14,3 +14,8 @@ Resetting your server can be helpful when you wanna work on a new proejct for yo
 2. Navigate to the `Danger Zone` tab.
 3. Click the button labeled `Reset Server`.
 4. Restart your server.
+
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
