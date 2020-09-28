@@ -20,3 +20,7 @@ Examples:
 "_Tarna_ just joined the server (##1543)"
 "You are 90%% of the way there!"
 ```
+
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
