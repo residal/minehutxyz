@@ -20,3 +20,7 @@ The permission node for this is **imageonmap.new**.
 **/map**s is another command which opens a GUI to see, retrieve and manage user's maps.
 You can retrieve any created maps, or manage created maps. Maps can be renamed (for organization), deleted (but they won't render in-game anymore!), or partially retrieved (for posters maps containing more than one map).
 Permission: **imageonmap.list**, **imageonmap.get**, **imageonmap.rename** and **imageonmap.delete** for actions into the GUI.
+
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
