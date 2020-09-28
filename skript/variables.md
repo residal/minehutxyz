@@ -65,3 +65,7 @@ set {pog.champ} to true
 set metadata value "nerdiness-level" of player to 1
 ```
 
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
