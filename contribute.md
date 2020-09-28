@@ -17,7 +17,7 @@ To fork the repository, click the `Fork` button at the top right of the page.
 
 A category is just a folder with the name of the category, navigate to the category you want to add a page to. From here, click `Add file`, and then `Create new file`. Create a file with a short name, and put `.md` after the name, (ex. `functions.md`, `download-world.md`, etc.), and then open the file.
 
-From here, you can edit the file.
+From here, you can edit the file. ***[Here's](https://raw.githubusercontent.com/TeamMH/minehutxyz/master/template.md) our template you must follow.***
 
 ![](./.gitbook/assets/example.png)
 
