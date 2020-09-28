@@ -20,3 +20,8 @@ The free plan only allows you to have a max of **12 plugins** installed at one t
 
 Secondly, click the large **Restart** button at the top of your File Manager to restart your server. This is a requirement. Now you can join your server, and the selected plugins will be installed.
 
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
+
