@@ -35,3 +35,7 @@ UltimatePerms:
 /perms [user/group] <player-name/group> add <perm node>
 ```
 
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
