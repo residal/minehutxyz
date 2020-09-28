@@ -19,3 +19,8 @@ Type `/op (your username)` into the **Server Command** area of the panel. This w
 JAVA: /op (username)
 BEDROCK: /op *(username)
 ```
+
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
