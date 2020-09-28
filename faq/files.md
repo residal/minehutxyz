@@ -4,11 +4,11 @@ description: An informative list on the allowed file types on Minehut.
 
 # Allowed file types
 
-**OVERVIEW**
+## OVERVIEW
 
 Due to security reasons, you cannot upload certain file types to your servers.
 
-**ALLOWED FILE TYPES**
+## ALLOWED FILE TYPES
 
 ```
 .yml
