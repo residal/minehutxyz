@@ -1,5 +1,5 @@
 ---
-description: 'Learn the basics of WorldEdit (https://dev.bukkit.org/projects/worldedit)'
+description: 'Learn the basics of WorldEdit [https://dev.bukkit.org/projects/worldedit]'
 ---
 
 # WorldEdit
@@ -35,4 +35,9 @@ A full list of commands and permissions can be found [here](https://worldedit.en
 | `//paste` |  `worldedit.clipboard.paste` |
 | `//pos1` |  `worldedit.selection.pos` |
 | `//pos2` |  `worldedit.selection.pos` |
+
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
 
