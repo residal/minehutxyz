@@ -56,6 +56,13 @@ To add separate sections for your page, add:
 ## Section
 
 Put text here
+
+
+
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
 ```
 
 You can, of course, put normal markdown in your page aswell.
