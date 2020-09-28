@@ -22,3 +22,8 @@ DEVICES: iOS, Android, Win10
 ```
 
 *Please note, you **cannot** direct connect on Bedrock Edition, you must join the lobby.*
+
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
