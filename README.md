@@ -23,3 +23,7 @@ This section is completely directed towards plugins. Each post gives an overview
 
 Minehut.xyz was founded on **_August 4th, 2020_** by two members of the Minehut Community, **Tarna** _\(Senior Support @ Minehut\)_ & **Minehut** _\(Adam, Senior Support @ Minehut\)_. We simply have one goal, to help the community.
 
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
