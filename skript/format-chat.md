@@ -18,3 +18,7 @@ on chat:
 {% hint style="info" %}
 You can use things such as `%player's prefix%` if you have Essentials & Vault installed.
 {% endhint %}
+
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
