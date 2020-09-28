@@ -29,13 +29,14 @@
 ## Plugin Tutorials <a id="plugin"></a>
 
 * [Recommended Plugins](plugin/rccplugins.md)
+* [PermissionsEx](plugin/pex.md)
+* [LuckPerms](plugin/lp.md)
+* [GroupManager](plugin/gm.md)
 * [WorldEdit](plugin/worldedit.md)
 * [WorldGuard](plugin/worldguard.md)
-* [LuckPerms](plugin/lp.md)
-* [PermissionsEx](plugin/pex.md)
 * [CoreProtect](plugin/coreprotect.md)
 * [RedProtect](plugin/redprotect.md)
-* [GroupManager](plugin/gm.md)
+* [ImageOnMap](plugin/imageonmap.md)
 
 ## Skript
 
