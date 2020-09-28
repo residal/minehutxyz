@@ -1,7 +1,7 @@
 ---
 description: >-
   Learn the basics of GroupManager
-  (https://www.spigotmc.org/resources/groupmanager-1-7-1-16.40615/)
+  [https://www.spigotmc.org/resources/groupmanager-1-7-1-16.40615/]
 ---
 
 # GroupManager
@@ -45,4 +45,9 @@ For the prefixes and suffixes to show up in chat, you'll need Vault and a chat f
 You can get a list of commands [here](https://www.spigotmc.org/resources/groupmanager-1-7-1-16.40615/)!
 
 ### \_\_
+
+{% hint style="success" %}
+Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
+{% endhint %}
+
 
