@@ -1,7 +1,5 @@
 ---
-description: >-
-  LuckPerms is currently one of the more known plugins used for group managing
-  [https://github.com/lucko/LuckPerms/wiki/Command-Usage]
+description: Learn how to use LuckPerms.
 ---
 
 # LuckPerms
