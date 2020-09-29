@@ -1,7 +1,5 @@
 ---
-description: >-
-  Learn the basics of GroupManager
-  [https://www.spigotmc.org/resources/groupmanager-1-7-1-16.40615/]
+description: Learn how to use GroupManager.
 ---
 
 # GroupManager
