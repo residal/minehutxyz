@@ -1,5 +1,5 @@
 ---
-description; Our current sponsorships.
+description: Our current sponsorships.
 ---
 
 # Sponors
