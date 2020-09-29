@@ -2,6 +2,7 @@
 
 * [Minehut.xyz](README.md)
 * [Contribute](contribute.md)
+* [Sponsors](sponsor.md)
 
 ## Popular Questions <a id="faq"></a>
 
