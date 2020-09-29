@@ -1,7 +1,5 @@
 ---
-description: >-
-  Learn the basics of PermissionsEx.
-  [https://github.com/PEXPlugins/PermissionsEx/wiki]
+description: Learn how to use PermissionsEx.
 ---
 
 # PermissionsEx
