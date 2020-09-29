@@ -13,6 +13,7 @@
   * [Allowed File types](faq/files.md)
   * [Reset Server](faq/reset.md)
   * [Default World](faq/default-world.md)
+  * [Custom Seed](faq/custom-seed.md)
   * [Rename](faq/rename.md)
 * [Ingame](popqs/README.md)
   * [Downloading](faq/dl.md)
