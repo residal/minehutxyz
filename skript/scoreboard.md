@@ -24,7 +24,8 @@ on join:
     set title of player's scoreboard to "&6&lServer Info"
     set line 1 of player's scoreboard to "&7• &eOnline: &f%size of all players%" 
 ```
-#### Basic stats scoreboard using SKBEE
+
+#### SKBEE BASIC STATISTICS SCOREBOARD 
 ```
 on join:
     while player is online:
