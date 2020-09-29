@@ -64,3 +64,4 @@
   * [Example: Format Chat](skript/format-chat.md)
   * [Example: Join & Quit Messages](skript/custom-messages.md)
   * [Example: Private Messages](skript/msg.md)
+  * [Example: Scoreboards](skript/scoreboard.md)
