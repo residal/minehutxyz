@@ -6,7 +6,7 @@ description: Learn how to use Essentials.
 
 # OVERVIEW
 
-This tutorial will end up being very long, however we've split it into parts, for example Essentials Spawn.
+This tutorial will end up being very long, however we've split it into parts, for example [Essentials Spawn](https://minehut.xyz/plugin/popular/essentials#essentials-spawn).
 
 # ESSENTIALS SPAWN
 
