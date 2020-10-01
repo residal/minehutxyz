@@ -19,6 +19,21 @@ This section is directed towards questions that are asked frequently asked. For 
 
 This section is completely directed towards plugins. Each post gives an overview of the plugin, it's unique features, and handy commands _\(& permission nodes\)._ These posts are normally to inform users on useful plugins. [\[Submit a post\]](contribute.md)
 
+## SKRIPT TUTORIALS 
+
+We've teamed up with top skript developers to be able to write the best tutorials and examples.
+
+## THE TEAM
+
+**Tarna**, Founder, Writer |
+**Adam**, Founder, Senior Writer.
+
+**Goose**, Manager, Writer.
+
+**Lucas**, Senior Writer |
+**Conutik**, Writer |
+**Houlton**, Writer.
+
 ## ABOUT US
 
 Minehut.xyz was founded on **_August 4th, 2020_** by two members of the Minehut Community, **Tarna** _\(Senior Support @ Minehut\)_ & **Minehut** _\(Adam, Senior Support @ Minehut\)_. We simply have one goal, to help the community.
