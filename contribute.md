@@ -1,5 +1,5 @@
 ---
-description: Learn how to contribute to minehut.xyz
+description: Learn how to contribute to Minehut.xyz
 ---
 
 # Contribute
