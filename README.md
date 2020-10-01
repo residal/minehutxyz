@@ -17,11 +17,11 @@ This section is directed towards questions that are asked frequently asked. For 
 
 ## PLUGIN TUTORIALS
 
-This section is completely directed towards plugins. Each post gives an overview of the plugin, it's unique features, and handy commands _\(& permission nodes\)._ These posts are normally to inform users on useful plugins. [\[Submit a post\]](contribute.md)
+This section is directed towards plugins. Each post gives an overview of the plugin, it's unique features, and handy commands _\(& permission nodes\)._ These posts are normally to inform users on useful plugins. [\[Submit a post\]](contribute.md)
 
 ## SKRIPT TUTORIALS 
 
-We've teamed up with top skript developers to be able to write the best tutorials and examples.
+This section is dedicated towards Skript tutorials and examples. We've teamed up with top skript developers to be able to write the best tutorials and examples. [\[Submit a post\]](contribute.md)
 
 ## THE TEAM
 
