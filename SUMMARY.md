@@ -67,5 +67,6 @@
 * [Examples](skript1/README.md)
   * [Example: Format Chat](skript/format-chat.md)
   * [Example: Join & Quit Messages](skript/custom-messages.md)
-  * [Example: Private Messages](skript/msg.md)
+  * [Example: Spawn](skript/spawn.md)
   * [Example: Scoreboards](skript/scoreboard.md)
+  * [Example: Private Messages](skript/msg.md)
