@@ -30,4 +30,3 @@ To allow 1.8 combat _\(no hit delay\)_, install the plugin `OldCombatMechanics`.
 Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
 
-

@@ -26,4 +26,3 @@ DEVICES: iOS, Android, Win10
 {% hint style="success" %}
 Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
-
