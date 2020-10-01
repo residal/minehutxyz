@@ -12,7 +12,7 @@ Instead of having the default Minecraft chat format such as `<Trent>: Hey!`, you
  
 ```
 on chat:
- set chat format to "%player%: %message%
+ set chat format to "%player%: %message%"
 ```
 
 {% hint style="info" %}
