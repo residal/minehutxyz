@@ -4,6 +4,8 @@ description: A /setspawn and /spawn command for your server.
 
 # Example: Spawn
 
+## Example: Spawn
+
 ### *This tutorial was submitted by SmellyBurger. Find out how you can submit a tutorial [_here_](../contribute.md)*
 
 So, first you need to create the file. Lets name it `spawn.sk`.
