@@ -20,11 +20,9 @@ First of all, make sure you are OP *(follow [this](https://minehut.xyz/faq/ingam
 
 ### PERMISSIONS
 
-- **essentials.setspawn**
-    - Gives whoever has this permission to use /setspawn.
+* **essentials.setspawn** *Gives whoever has this permission to use /setspawn.*
  
- - **essentials.spawn**
-    - Gives whoever has this permission to use /spawn.
+ * **essentials.spawn** *Gives whoever has this permission to use /spawn.*
 
 {% hint style="success" %}
 Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
