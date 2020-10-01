@@ -13,6 +13,8 @@
   * [Custom Domain](faq/domain.md)
   * [Allowed File types](faq/files.md)
   * [Reset Server](faq/reset.md)
+  * [Reset World](faq/resetworld.md)
+  * [Default Gamemode](faq/default-gamemode.md)
   * [Default World](faq/default-world.md)
   * [Custom Seed](faq/custom-seed.md)
   * [Rename](faq/rename.md)
@@ -49,6 +51,7 @@
 * [Other](perms3/README.md)
   * [RedProtect](plugin/redprotect.md)
   * [ImageOnMap](plugin/imageonmap.md)
+  * [CombatLogX](plugin/combatlogx.md)
 
 ## Skript
 
