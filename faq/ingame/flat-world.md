@@ -6,7 +6,9 @@ description: >-
 
 # Creating a Flat World
 
-### _This tutorial was submitted by PandaChan. Find out how you can submit a tutorial_ [_here_](../contribute.md)_._
+{% hint style="info" %}
+This tutorial was made by PandaChan. Lean how to contribute [here](/contribute.md).
+{% endhint %}
 
 ## HOW TO MAKE YOUR WORLD FLAT
 
