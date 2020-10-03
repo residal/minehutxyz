@@ -2,12 +2,12 @@
 description: Learn how to make a paginated GUI. This allowed people to make "pages" in a GUI, and is infinitly expandable.
 ---
 
+# Pagination
+
 {% hint style="info" %}
 This tutorial was made by Blocksnmore, and [ReportCardsMC](https://github.com/ReportCardsMC). Lean how to contribute [here](/contribute.md).
 {% endhint %}
 
-
-# Comments
 
 ## What is "pagination"?
 
