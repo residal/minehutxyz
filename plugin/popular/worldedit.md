@@ -40,4 +40,3 @@ A full list of commands and permissions can be found [here](https://worldedit.en
 Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
 
-

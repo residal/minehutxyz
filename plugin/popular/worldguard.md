@@ -38,4 +38,3 @@ Though WorldGuard is most known for its protection purposes, there are also some
 Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
 
-

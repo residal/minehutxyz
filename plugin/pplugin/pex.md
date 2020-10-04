@@ -149,4 +149,3 @@ Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official wri
 
 
 
-

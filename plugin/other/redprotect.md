@@ -24,4 +24,3 @@ RedProtect has a few oher features, such as private chests, portals and many mor
 Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
 
-

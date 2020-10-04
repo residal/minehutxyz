@@ -48,4 +48,3 @@ You can get a list of commands [here](https://www.spigotmc.org/resources/groupma
 Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
 
-

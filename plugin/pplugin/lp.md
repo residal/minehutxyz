@@ -53,4 +53,3 @@ I also **highly** recommend checking out the online editor, this can be found us
 {% hint style="success" %}
 Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
-
