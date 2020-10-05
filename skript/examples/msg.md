@@ -32,4 +32,3 @@ You can add a usage message to the command by adding `usage: usage message` befo
 {% hint style="success" %}
 Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
 {% endhint %}
-
