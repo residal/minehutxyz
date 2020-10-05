@@ -19,6 +19,9 @@ on join:
 ```
 
 ### SKBEE SCOREBOARD 
+
+#### IN ORDER TO USE SKBEE SCOREBOARDS IF YOU HAVE SKRAYFALL DISABLE "FAST SCOREBOARDS" IN THE SKRAYFALL CONFIG
+
 ```
 on join:
     set title of player's scoreboard to "&6&lServer Info"
