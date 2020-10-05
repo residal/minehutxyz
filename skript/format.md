@@ -35,6 +35,7 @@ tooltip; When hovering over text, a blurb of text will appear.
 In order to use them, you wanna put "<the attribute you want to use:value of the attribute>." In order to prevent future text from having the attribute, put a "<r>" (or "<reset>") in front of the text you want to have the attributes.
 
 Here are some images of the attributes in action:
+
 ![](../.gitbook/assets/cmd.png)
 ![](../.gitbook/assets/suggest.png)
 ![](../.gitbook/assets/url.png)
