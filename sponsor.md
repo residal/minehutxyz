@@ -12,3 +12,6 @@ description: Our current sponsorships.
 
 ## [Premiums](https://discord.gg/vvajrHX)
 > **Premiums** is a fully skripted skyblock server based on Minehut. Team up with your friends and compete for cash money prizes each season! We offer fun gameplay, weekly updates, events, a great community and much more.
+
+## [Oictr](https://discord.gg/GPyc8Z2)
+> **Oitcr** is a fair one in the chamber style pvp server! The focus is to create something fun whilst eliminating the use of pay to win and unfair gear. 
