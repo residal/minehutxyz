@@ -27,7 +27,6 @@ This section is dedicated towards Skript tutorials and examples. We've teamed up
 
 Name | Position
 ---|---
-**Tarna** | Founder, Writer 
 **Adam** | Founder, Senior Writer
 --- | ---
 **Goose** | Manager, Writer
