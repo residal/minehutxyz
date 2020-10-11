@@ -19,9 +19,16 @@ There will be 6 main sections:
 
 [Authorization](auth.md)
 
+
+
 [Server Endpoints](api1/README.md)
+
 [File Endpoints](api2/README.md)
+
 [User Endpoints](api3/README.md)
+
 [Network Endpoints](api4/README.md)
+
 [Admin Endpoints](api5/README.md)
+
 [Misc Endpoints](api6/README.md)
