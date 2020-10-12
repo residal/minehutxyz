@@ -8,7 +8,7 @@ description: View a list of plugins
 
 **Method** `GET`
 
-**Path (server id)** `/plugins_public`
+**Path** `/plugins_public`
 
 **Information** Returns a list of all plugins.
 
