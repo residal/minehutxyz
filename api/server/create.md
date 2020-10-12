@@ -8,7 +8,7 @@ description: Create a server
 
 **Method** `POST`
 
-**Path (server id)** `/servers/create`
+**Path** `/servers/create`
 
 **Body** {"name":"server_name"}
 
