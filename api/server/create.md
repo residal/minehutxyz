@@ -6,9 +6,11 @@ description: Create a server
 
 ## Endpoint
 
-**Method** `GET`
+**Method** `POST`
 
 **Path (server id)** `/servers/create`
+
+**Body** {"name":"server_name"}
 
 **Information** Creates a server, requires at least 1 free server slot.
 
