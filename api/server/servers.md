@@ -8,7 +8,7 @@ description: View a list of online servers
 
 **Method** `GET`
 
-**Path (server id)** `/servers`
+**Path** `/servers`
 
 **Information** Returns a list of all online player servers.
 
