@@ -2,7 +2,7 @@
 description: View a list of plugins
 ---
 
-# Server Information
+# Plugin List
 
 ## Endpoint
 
