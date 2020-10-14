@@ -1,5 +1,5 @@
 ---
-description: Start a server
+description: Minehut API Documentation
 ---
 
 # Start Server
