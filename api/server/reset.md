@@ -1,5 +1,5 @@
 ---
-description: Reset a server
+description: Minehut API Documentation
 ---
 
 # Reset Server
@@ -8,7 +8,7 @@ description: Reset a server
 
 **Method** `POST`
 
-**Path** `/servers/{server-id}/reset_all`
+**Path** `/server/{server-id}/reset_all`
 
 **Information** Completely deletes and resets an entire server.
 
