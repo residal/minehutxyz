@@ -2,7 +2,7 @@
 description: Stops a server, and puts it into hibernation.
 ---
 
-# Server Information
+# Destroy Service
 
 ## Endpoint
 
