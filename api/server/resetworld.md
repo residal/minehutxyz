@@ -8,7 +8,7 @@ description: Minehut API Documentation
 
 **Method** `POST`
 
-**Path** `/servers/{server-id}/reset_world`
+**Path** `/server/{server-id}/reset_world`
 
 **Information** Deletes the current world and creates a new one using a new seed.
 
