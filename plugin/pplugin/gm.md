@@ -4,7 +4,6 @@ description: Learn how to use GroupManager.
 
 # GroupManager
 
-### _This tutorial was submitted by Goose. Find out how you can submit a tutorial_ [_here_](../contribute.md)_._
 
 ## **OVERVIEW**
 
