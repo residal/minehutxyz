@@ -4,8 +4,6 @@ description: Learn how to use functions in Skript!
 
 # Functions
 
-### _This tutorial was submitted by Goose. Find out how you can submit a tutorial_ [_here_](../contribute.md)_._
-
 ## **OVERVIEW**
 
 Learn how to use functions in Skript!
