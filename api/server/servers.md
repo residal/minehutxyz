@@ -2,7 +2,7 @@
 description: View a list of online servers
 ---
 
-# Server Information
+# List Servers
 
 ## Endpoint
 
