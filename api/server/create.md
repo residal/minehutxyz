@@ -2,7 +2,7 @@
 description: Create a server
 ---
 
-# Server Information
+# Create Server
 
 ## Endpoint
 
