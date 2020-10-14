@@ -12,6 +12,6 @@ description: Minehut API Documentation
 
 **Body** `{"visibility":true/false}`
 
-**Information** 
+**Information** Changes the visibility of the server.
 
 Requires authorization.
