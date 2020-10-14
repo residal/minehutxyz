@@ -2,7 +2,7 @@
 description: Start a server
 ---
 
-# Server Information
+# Start Server
 
 ## Endpoint
 
@@ -10,6 +10,6 @@ description: Start a server
 
 **Path** `/server/{server-id}/start`
 
-**Information** Starts a server up.
+**Information** Starts a server.
 
 Requires authorization.
