@@ -30,6 +30,10 @@ description: Description
 
 # Title
 
+{% hint style="info" %}
+This tutorial was made by <name>. Lean how to contribute [here](/contribute.md).
+{% endhint %}
+
 ## Section 1
 
 Text
@@ -66,4 +70,8 @@ Once you're done making the page, click `Commit new file`.
 Now, for Gitbook to register the page, open a file named SUMMARY.md, and then find the category you're adding a page to, and then under it, put `* [Title of your page](category/file-name.md)`. Then commit the file.
 
 Now you can make a pull request!
-Go to your repository, then click the button labeled `Pull request`, it should be right next to a `Compare` button. Then, click `Create pull request`. Tada! You have made a pull request to our repository, and your page will appear on the Gitbook if we accept it.
+Go to your repository, then click the button labeled `Pull request`, it should be right next to a `Compare` button. Then, click `Create pull request`. Tada! You have made a pull request to our repository, and your page will appear on the Gitbook if we accept it. 
+
+{% hint style="warning" %}
+Note that you need to delete your fork and refork it to update it. There is no way to auto update it (unless your editing loccally, which you can learn how to [here](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/syncing-a-fork).
+{% endhint %}
