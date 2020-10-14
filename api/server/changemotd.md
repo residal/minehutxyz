@@ -12,6 +12,6 @@ description: Minehut API Documentation
 
 **Body** `{"motd":"New motd!"}`
 
-**Information** 
+**Information** Attempts to the change the MOTD of the server. Error 402 is returned if MOTD exceeds 64 character limit.
 
 Requires authorization.
