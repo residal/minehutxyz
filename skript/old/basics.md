@@ -7,7 +7,7 @@ description: 'Learn how to use Skript. [https://skriptlang.github.io/Skript/]'
 ![](../.gitbook/assets/skript.jpg)
 
 {% hint style="warning" %}
-**Visit our** [**partner YouTube channel**](https://www.youtube.com/channel/UCgXFIH9h2Vf9Q1e86n_FVJA) **for even more tutorials.**
+**Visit our** [**partner YouTube channel**](https://www.youtube.com/channel/UCgXFIH9h2Vf9Q1e86n_FVJA) **for even more tutorials!**
 {% endhint %}
 
 ## OVERVIEW
