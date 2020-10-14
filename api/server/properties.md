@@ -8,7 +8,7 @@ description: Minehut API Documentation
 
 **Method** `POST`
 
-**Path** `/servers/{server-id/edit_server_properties`
+**Path** `/server/{server-id/edit_server_properties`
 
 **Body** `{"field":"field in properties, see list below","value":"new value for field"}`
 
