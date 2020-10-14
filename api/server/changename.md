@@ -8,7 +8,7 @@ description: Minehut API Documentation
 
 **Method** `POST`
 
-**Path** `/servers/{server-id}/change_name`
+**Path** `/server/{server-id}/change_name`
 
 **Body** `{"name":"new name"}`
 
