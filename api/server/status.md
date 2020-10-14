@@ -1,5 +1,5 @@
 ---
-description: View server status
+description: Minehut API Documentation
 ---
 
 # Server Status
