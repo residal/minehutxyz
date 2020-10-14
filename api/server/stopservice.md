@@ -1,5 +1,5 @@
 ---
-description: Stops a server, and puts it into hibernation.
+description: Minehut API Documentation
 ---
 
 # Destroy Service
