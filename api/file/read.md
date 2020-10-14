@@ -6,7 +6,7 @@ description: Minehut API Documentation
 
 ## Endpoint
 
-**Method** `POST`
+**Method** `GET`
 
 **Path** `/file/{server-id}/read/PATH`
 
