@@ -4,8 +4,6 @@ description: Learn how to make commands with Skript!
 
 # Commands
 
-### _This tutorial was submitted by Goose. Find out how you can submit a tutorial_ [_here_](../contribute.md)_._
-
 ## HOW TO REGISTER A COMMAND
 
 Registering a command is very simple in Skript. This is what a command in Skript can have:
