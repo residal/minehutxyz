@@ -1,5 +1,5 @@
 ---
-description: Stops a server
+description: Minehut API Documentation
 ---
 
 # Stop Server
