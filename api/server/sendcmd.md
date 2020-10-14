@@ -1,5 +1,5 @@
 ---
-description: Send a command
+description: Minehut API Documentation
 ---
 
 # Reset Server
@@ -8,7 +8,7 @@ description: Send a command
 
 **Method** `POST`
 
-**Path** `/servers/{server-id}/execute_command`
+**Path** `/server/{server-id}/execute_command`
 
 **Body** `{"command":"/command"}`
 
