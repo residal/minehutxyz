@@ -2,7 +2,7 @@
 description: Boot a server out of hibernation and start it
 ---
 
-# Server Information
+# Start Service
 
 ## Endpoint
 
