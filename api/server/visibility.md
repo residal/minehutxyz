@@ -8,7 +8,7 @@ description: Minehut API Documentation
 
 **Method** `POST`
 
-**Path** `/servers/{server-id}/change_visiblity`
+**Path** `/server/{server-id}/change_visiblity`
 
 **Body** `{"visibility":true/false}`
 
