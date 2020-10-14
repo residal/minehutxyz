@@ -1,5 +1,5 @@
 ---
-description: Boot a server out of hibernation and start it
+description: Minehut API Documentation
 ---
 
 # Start Service
