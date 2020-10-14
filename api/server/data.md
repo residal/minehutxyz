@@ -2,7 +2,7 @@
 description: View server info
 ---
 
-# Server Information
+# Server Data
 
 ## Endpoint
 
