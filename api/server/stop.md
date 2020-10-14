@@ -2,7 +2,7 @@
 description: Stops a server
 ---
 
-# Server Information
+# Stop Server
 
 ## Endpoint
 
