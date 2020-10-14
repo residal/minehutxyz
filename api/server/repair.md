@@ -1,5 +1,5 @@
 ---
-description: Repair server files
+description: Minehut API Documentation
 ---
 
 # Repair Files
@@ -8,7 +8,7 @@ description: Repair server files
 
 **Method** `POST`
 
-**Path** `/servers/{server-id}/repair_files`
+**Path** `/server/{server-id}/repair_files`
 
 **Information** Repairs core files of a server
 
