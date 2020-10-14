@@ -8,7 +8,7 @@ description: Minehut API Documentation
 
 **Method** `POST`
 
-**Path** `/servers/{server-id}/change_motd`
+**Path** `/server/{server-id}/change_motd`
 
 **Body** `{"motd":"New motd!"}`
 
