@@ -1,5 +1,5 @@
 ---
-description: View server info
+description: Minehut API Documentation
 ---
 
 # Server Data
