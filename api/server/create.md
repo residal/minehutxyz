@@ -1,5 +1,5 @@
 ---
-description: Create a server
+description: Minehut API Documentation
 ---
 
 # Create Server
