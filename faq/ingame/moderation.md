@@ -6,17 +6,18 @@ description: How to kick, ban, unban and more. User moderation in general.
 
 ## Banning Users
 
-You can ban users on minehut using `/ban <name> [reason]`, as well as temporarily ban them with `/tempban <user> <duration {usually like 1m,1h,1d}> [reason]`. To unban a user is a bit different though, if your using essentials or a ban management plugin like LiteBans, use `/unban <player>`. For vanilla minecraft, use `/pardon <player>` to unban someone.
+You can ban users from your Minehut server using `/ban <name> [reason]`, you can also temporarily ban them with `'/tempban <user> <duration {1m, 1h, 1d, etc}> [reason]`.
+To unban a player, the vanilla comamnd is `/pardon <player>` however if you are using essentials or a moderation plugin such as LiteBans, you may use `/unban <player>`.
 
 ## Muting Users
 
-To mute a user, you need to first install essentials and/or a moderation plugin. Then do `/mute <player> [reason]` or `/mute <player> <duration> [reason]`. You can also do this in vannilla minecraft, but its not to great, check it out [here](https://www.reddit.com/r/Minecraft/comments/3iueui/mute_players_in_vanilla/).
+To mute a user, install essentials and/or a moderation plugin, then you can type `/mute <player> [reason` or `/mute <player> <duration> [reason]`.
 
 ## Kicking Users
 
-To kick a user, use `/kick <player> [reason]` to kick them.
+To kick a user, use `/kick <player> [reason]`.
 
-Note that arguments between `< >` are required and `[ ]` are optional.
+**NOTE:** Arguments between `< >` are required and `[ ]` are optional.
 
 {% hint style="success" %}
 Join our **[Discord](https://invite.gg/minehutxyz)** to become an **official writer**, **site updates**, and **much more**.
